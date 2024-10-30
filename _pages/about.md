@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Zhenyang Bao is currently a graduate student at School of Computer Science and Engineering, Nanjing University of Science and Technology.
+
+Contact me via: <baozhenyang@njust.edu.cn>
